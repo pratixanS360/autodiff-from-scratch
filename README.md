@@ -5,13 +5,14 @@
 ![Status](https://img.shields.io/badge/status-educational-lightgrey.svg)
 
 A minimal automatic differentiation engine inspired by Andrej Karpathy’s [micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0).
-This repository implements a scalar-valued autograd system from scratch, supporting reverse-mode automatic differentiation (backpropagation) over a dynamically constructed computation graph.
+This repository implements a scalar-valued autograd system from scratch, supporting reverse-mode automatic differentiation (backpropagation) over a dynamically constructed computation graph and a 
 
 ## Features
 - Scalar-based automatic differentiation
 - Dynamic computation graph construction
 - Reverse-mode autodiff (backpropagation)
-
+- A simple neural network built on top
+  
 ## Motivation
 The goal of this project is to build an autograd engine from scratch and understand how modern deep learning frameworks compute gradients and propagate them through computation graphs.
 
