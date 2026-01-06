@@ -22,6 +22,7 @@ The goal of this project is to build an autograd engine from scratch and underst
 ## References
 - Andrej Karpathy’s [micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0).
 - [Core concepts in reverse-mode automatic differentiation](https://auto-ed.readthedocs.io/en/latest/mod3.html)
+- [What is Automatic Differentiation?](https://www.youtube.com/watch?v=wG_nF1awSSY)
 
 ## License
 MIT
